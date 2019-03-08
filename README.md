@@ -25,6 +25,7 @@
         + ***Republic***
         +   All the republic ones have the same sound and effects for now.  
             + CDV-21 [Low Capacity]
+                + JT-12 Model     
                 + **Energy Capcity**:60
                 + **Energy Recharge**:10 energy per second
                 + **Spam delay**: 0.05 seconds
@@ -32,6 +33,7 @@
                     +   Forward jump, forward velocity =10.1,verticle 21.5, costs 50, goes forward, can prone jump
                     +   Short jump, forward velocity =12,verticle 10, costs 40, goes in looking direction, can prone jump
             + CDV-21 [High Capacity]
+                + JT-12 Model      
                 + **Energy Capcity**:150
                 + **Energy Recharge**:3 energy per second
                 + **Spam delay**: 0.3 seconds
@@ -68,6 +70,7 @@
                 + has grey texture
                 + has same LR as cdv-19m
             +   CDV-21 [One Time]
+                + JT-12 Model     
                 + **Energy Capcity**:3
                     + **Energy Recharge**:0 energy per second
                     + **Spam delay**: 2 seconds
