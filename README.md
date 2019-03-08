@@ -29,13 +29,11 @@
                 + **Energy Recharge**:10 energy per second
                 + **Spam delay**: 0.05 seconds
                 + **Jumps**
-                    +   Forward jump, forward velocity =10.1,verticle 21.5, costs 50, goes forward, cant prone jump
-                    +   Short jump, forward velocity =12,verticle 10, costs 30, goes forward, cant prone jump
-                    +   left jump, forward velocity =10.1,verticle 21.5, costs 50, goes left, cant prone jump
-                    +   right jump, same as left jump but right lol
+                    +   Forward jump, forward velocity =10.1,verticle 21.5, costs 50, goes forward, can prone jump
+                    +   Short jump, forward velocity =12,verticle 10, costs 40, goes in looking direction, can prone jump
             + CDV-21 [High Capacity]
                 + **Energy Capcity**:150
-                + **Energy Recharge**:4 energy per second
+                + **Energy Recharge**:3 energy per second
                 + **Spam delay**: 0.3 seconds
                 + **Jumps**
                     +   Short jump, forward velocity =12,verticle 10, costs 30, goes forward, cant prone jump
