@@ -23,7 +23,7 @@
             +   When you use directional jump, if you get clipped on something and jump for less then .1 seconds(basicly you didn't jump) it will not comsume energy(Spam delay still applies though).
     - **Jumppacks**
         + ***Republic***
-        +   All the republic ones have the same sound and effects for now.  
+        +   All the republic ones have the same sound and effects for now. Additionaly the jumppacks have self interactions to change textures 
             + CDV-21 [Low Capacity]
                 + JT-12 Model     
                 + **Energy Capcity**:60
