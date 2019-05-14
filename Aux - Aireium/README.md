@@ -1,7 +1,5 @@
 # Aireium Update Changelog
-_501 R&D_   
-_by:_ **CX-P Zatama** 🍀☘️   
-_changelog by:_ **CX-D Namenai**🐉🐲
+aaaaa
 ---
 **Yavin Base controller** - "Luke, you switched off your targeting computer! What's wrong?"   
 **Luke Skywalker** - "This missile spam is *fuckin* borin mate"
