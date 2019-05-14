@@ -9,21 +9,29 @@ changelog by: **CX-D Namenai**🐉🐲
 As the name suggests the main focus of this update was improving the gameplay in the skies, Star Wars dogfights took *obvious* inspiration from the white knuckle engagements of WWII, and with that in mind I, Zatama,  have made various additions and changes in an attempt to capture the *ascetic* and *excitement* of space (Air) battles in the star wars universe. Here are the changes specific to that goal ;)
 
 ---
+# Table of Contents
+For our lazy friends,here you go.
+
+* [Vehicle Based](#vehicle-based)
+    * [Vehicle Additions](#vehicle-additions)
+    * [Vehicle Fixes](#vehicle-fixes)
+* [Infantry Based (ARC, GI, Airborne)](#infantry-based-(arc,-gi,-airborne))
+    * [Vehicle Additions](#infantry-additions)
+    * [infantry Changes](#infantry-changes)
+---
 Lets start with the small stuff
-[here](#Additions)
-[here](#Additions)
 - ###  Vehicle Based
-    + ##### Additions
+    + ##### Vehicle Additions
         +   Republic H.O.T (Heavy ordinance tank) + CIS Variants
         +   Republic R.O.T (Rocket ordinance tank) + CIS Variants
-    + ##### Fixes
+    + ##### Vehicle Fixes
         +  Issue preventing servers loading with 212th mod loaded
 ---
 - ### Infantry Based (ARC, GI, Airborne)
-    + ##### Additions
+    + ##### Infantry Additions
         +  Republic L.I.T (Light Infantry Transport) 
             * Large infantry transport for moving multiple full squads  
-    + **Changes**
+    + ##### Changes
         +  Backpack Normilization
             + All Backpacks
                 + Maximum Capacity increased to 600 (from 500) 
