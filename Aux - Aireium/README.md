@@ -1,6 +1,6 @@
 # Aireium Update Changelog
 501 R&D 
-by: **CX-P Zatama** 🍀☘️
+by: **CX-P Zatama** 🍀☘️   
 changelog by: **CX-D Namenai**🐉🐲
 ---
 **Yavin Base controller** - "Luke, you switched off your targeting computer! What's wrong?"   
