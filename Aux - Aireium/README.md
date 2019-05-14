@@ -11,15 +11,16 @@ As the name suggests the main focus of this update was improving the gameplay in
 ---
 Lets start with the small stuff
 [here](#Additions)
+[here](#Additions)
 - ###  Vehicle Based
     + ##### Additions
         +   Republic H.O.T (Heavy ordinance tank) + CIS Variants
         +   Republic R.O.T (Rocket ordinance tank) + CIS Variants
-    + **Fixes**
+    + ##### Fixes
         +  Issue preventing servers loading with 212th mod loaded
 ---
 - ### Infantry Based (ARC, GI, Airborne)
-    + **Additions**
+    + ##### Additions
         +  Republic L.I.T (Light Infantry Transport) 
             * Large infantry transport for moving multiple full squads  
     + **Changes**
