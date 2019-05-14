@@ -15,7 +15,7 @@ For our lazy friends,here you go.
 * [Vehicle Based](#vehicle-based)
     * [Vehicle Additions](#vehicle-additions)
     * [Vehicle Fixes](#vehicle-fixes)
-* [Infantry Based (ARC, GI, Airborne)](#infantry-based-arc-gi-airborne)
+* [Infantry Based (ARC, GI, Airborne)](#infantry-based)
     * [Vehicle Additions](#infantry-additions)
     * [infantry Changes](#infantry-changes)
 ---
@@ -27,7 +27,7 @@ Lets start with the small stuff
     + ##### Vehicle Fixes
         +  Issue preventing servers loading with 212th mod loaded
 ---
-- ### Infantry Based (ARC,GI,Airborne)
+- ### Infantry Based
     + ##### Infantry Additions
         +  Republic L.I.T (Light Infantry Transport) 
             * Large infantry transport for moving multiple full squads  
