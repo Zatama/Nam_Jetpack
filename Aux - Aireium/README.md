@@ -10,7 +10,7 @@ As the name suggests the main focus of this update was improving the gameplay in
 
 ---
 Lets start with the small stuff
-[here](#place-2)
+
 - ###  [Vehicle Based](#vicchanges)
     + **[Additions](#vic_additions)**
         +   Republic H.O.T (Heavy ordinance tank) + CIS Variants
@@ -89,6 +89,7 @@ Now the best changes for last.
                 + Model is the DC-15 SA, it features a 8 round mag, very slow rate of fire, very high recoil. Used for Razor only.
             + PS-22 Scatter Rifle
                 + Shoots .22 Long Rifle rounds as a shotgun, Uses DP-23 model,10 round mag, very good at hitting fingers. Used for Razor only.
+    [here](#place-2) 
     + **[Munitions](#aviation_Munitions)**
         + "Aircraft Cannon Laser CIS"
         + "Aircraft Cannon Laser Rebellion"
