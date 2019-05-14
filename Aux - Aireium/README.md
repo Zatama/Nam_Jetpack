@@ -10,7 +10,7 @@ As the name suggests the main focus of this update was improving the gameplay in
 
 ---
 Lets start with the small stuff
-[create an anchor](#anchors-in-markdown)
+[create an anchor](# anchors-in-markdown)
 - ###  [Vehicle Based](#vicchanges)
     + **[Additions](#vic_additions)**
         +   Republic H.O.T (Heavy ordinance tank) + CIS Variants
