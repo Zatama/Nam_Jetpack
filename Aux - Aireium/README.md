@@ -15,7 +15,7 @@ For our lazy friends,here you go.
 * [Vehicle Based](#vehicle-based)
     * [Vehicle Additions](#vehicle-additions)
     * [Vehicle Fixes](#vehicle-fixes)
-* [Infantry Based (ARC, GI, Airborne)](#infantry-based--arc-gi-airborne)
+* [Infantry Based (ARC, GI, Airborne)](#infantry-based-arc-gi-airborne)
     * [Vehicle Additions](#infantry-additions)
     * [infantry Changes](#infantry-changes)
 ---
