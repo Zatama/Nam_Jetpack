@@ -24,7 +24,7 @@ For our lazy friends,here you go.
     * [Aviation Changes](#aviation-changes)
     * [Aviation Weapon Additions](#aviation-weapon-additions)
     * [Aviation Munitions](#aviation-munitions)
-    * [cript Functions](#script-functions)
+    * [script Functions](#script-functions)
 ---
 Lets start with the small stuff
 - ###  Vehicle Based
@@ -38,7 +38,7 @@ Lets start with the small stuff
     + ##### Infantry Additions
         +  Republic L.I.T (Light Infantry Transport) 
             * Large infantry transport for moving multiple full squads  
-    + ##### Changes
+    + ##### Infantry Changes
         +  Backpack Normilization
             + All Backpacks
                 + Maximum Capacity increased to 600 (from 500) 
