@@ -12,18 +12,18 @@ As the name suggests the main focus of this update was improving the gameplay in
 Lets start with the small stuff
 
 - ###  [Vehicle Based](#vehicle-base)
-    + **[Additions](#Additions)**
+    + **[Additions](#additions)**
         +   Republic H.O.T (Heavy ordinance tank) + CIS Variants
         +   Republic R.O.T (Rocket ordinance tank) + CIS Variants
-    + **[Fixes](#Fixes)**
+    + **[Fixes](#fixes)**
         +  Issue preventing servers loading with 212th mod loaded
 ---
 
 - ### [Infantry Based (ARC, GI, Airborne)](#infantry_changes)
-    + **[Additions](#Additions)**
+    + **[Additions](#additions)**
         +  Republic L.I.T (Light Infantry Transport) 
             * Large infantry transport for moving multiple full squads  
-    + **[Changes](#Changes)**
+    + **[Changes](#changes)**
         +  Backpack Normilization
             + All Backpacks
                 + Maximum Capacity increased to 600 (from 500) 
@@ -52,14 +52,14 @@ Now the best changes for last.
             + All aircraft are now capable, and very willing, to engage infantry targets.
         + Damage Check
             + Hull integraty check added to all aircraft   
-    + **[Removed](#Removed)**
+    + **[Removed](#removed)**
         + Missiles
             + Like, all of them, get good
         + Bombs
             + Yeeted them too. 💣
         + "Repulsor Full Stop" that stops by killing you 💀
             + Who even came up with this in the first place? 
-    + **[Changes](#Changes)**
+    + **[Changes](#changes)**
         + All aircraft
             + Stability
                 + All non clone wars era aircraft have had their mass adjusted to perform more reliably at speed.
@@ -89,7 +89,7 @@ Now the best changes for last.
                 + Model is the DC-15 SA, it features a 8 round mag, very slow rate of fire, very high recoil. Used for Razor only.
             + PS-22 Scatter Rifle
                 + Shoots .22 Long Rifle rounds as a shotgun, Uses DP-23 model,10 round mag, very good at hitting fingers. Used for Razor only.
-    + **[Munitions](#Munitions)**
+    + **[Munitions](#munitions)**
         + "Aircraft Cannon Laser CIS"
         + "Aircraft Cannon Laser Rebellion"
         +   "Aircraft Cannon Laser Republic"
@@ -110,7 +110,7 @@ Now the best changes for last.
         +   "Thunderstorm CB"
         +   "Wrath PGB"
         +   "Ruin GB"
-    + **[Functions](#Functions)**
+    + **[Functions](#functions)**
         + Towing function for warden tank 💖
         + Airlift function for LAAT/C (Usable on all vehicles)
         + "Disable Turret" Function for all applicable aircraft
