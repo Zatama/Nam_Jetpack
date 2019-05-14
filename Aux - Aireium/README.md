@@ -2,7 +2,7 @@
 501 R&D 
 by: **CX-P Zatama**
 ---
-**Yavin Base controller** - "Luke, you switched off your targeting computer! What's wrong?" 
+**Yavin Base controller** - "Luke, you switched off your targeting computer! What's wrong?"   
 **Luke Skywalker** - "This missile spam is *fuckin* borin mate"
 
 As the name suggests the main focus of this update was improving the gameplay in the skies, Star Wars dogfights took *obvious* inspiration from the white knuckle engagements of WWII, and with that in mind I, Zatama,  have made various additions and changes in an attempt to capture the *ascetic* and *excitement* of space (Air) battles in the star wars universe. Here are the changes specific to that goal ;)
@@ -27,5 +27,10 @@ Lets start with the small stuff
             + Demolition Backpack
                 + Maximum Capacity decreased to 600 (from 700)
         +  AP Grenade
-        +  DC15-LE
+            + AP Grenades now carry a small explosive radious and should no longer be capable of penetrating multiple targets.     
+        +  DC15 MOD 0
+            + Magazine size reduced by 50% ( 240 rounds to 120 rounds *big sad* )
         +  RPS6
+            + Adjust recoil values  
+            + 
+*This is where the fun begins
