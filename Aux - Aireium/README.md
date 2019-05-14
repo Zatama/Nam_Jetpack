@@ -11,7 +11,7 @@ As the name suggests the main focus of this update was improving the gameplay in
 ---
 Lets start with the small stuff
 
-- ###  [Vehicle Based](#vic_changes)
+- ###  [Vehicle Based](#vicchanges)
     + **[Additions](#vic_additions)**
         +   Republic H.O.T (Heavy ordinance tank) + CIS Variants
         +   Republic R.O.T (Rocket ordinance tank) + CIS Variants
