@@ -9,23 +9,6 @@ _changelog by:_ **CX-D Namenai**🐉🐲
 As the name suggests the main focus of this update was improving the gameplay in the skies, Star Wars dogfights took *obvious* inspiration from the white knuckle engagements of WWII, and with that in mind I have made various additions and changes in an attempt to capture the *ascetic* and *excitement* of space (Air) battles in the star wars universe. Here are the changes specific to that goal ;)
 
 ---
-# Table of Contents
-For our lazy friends,here you go.
-
-* [Vehicle Based](#vehicle-based)
-    * [Vehicle Additions](#vehicle-additions)
-    * [Vehicle Fixes](#vehicle-fixes)
-* [Infantry Based (ARC, GI, Airborne)](#infantry-based)
-    * [Vehicle Additions](#infantry-additions)
-    * [infantry Changes](#infantry-changes)
-* [Aviation Based](#aviation-based)
-    * [Functionality Additons](#functionality-additons)
-    * [Aviation Items Removed](#aviation-items-removed)
-    * [Aviation Changes](#aviation-changes)
-    * [Aviation Weapon Additions](#aviation-weapon-additions)
-    * [Aviation Munitions](#aviation-munitions)
-    * [script Functions](#script-functions)
----
 Lets start with the small stuff
 - ###  Vehicle Based
     + ##### Vehicle Additions
