@@ -1,6 +1,6 @@
 # Aireium Update Changelog
 
-_501 R&D_   
+**501 R&D**   
 _by:_ **CX-P Zatama** 🍀☘️   
 _changelog by:_ **CX-D Namenai**🐉🐲
 
