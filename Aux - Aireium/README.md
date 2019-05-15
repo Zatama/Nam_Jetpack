@@ -1,4 +1,4 @@
-# Aireium Update Changelog
+# Aerium Update Changelog
 
 **501 R&D**   
 _by:_ **CX-P Zatama** 🍀☘️   
@@ -18,6 +18,9 @@ Lets start with the small stuff
         +   Republic R.O.T (Rocket ordinance tank) + CIS Variants
     + ##### Vehicle Fixes
         +  Issue preventing servers loading with 212th mod loaded
+    + ##### Vehicle Changes
+        + Hailfire Droid
+            + Now contains approximately 75% more hailfire
 ---
 - ### Infantry Based
     + ##### Infantry Additions
@@ -63,6 +66,9 @@ Now the best changes for last.
         + All aircraft
             + Stability
                 + All non clone wars era aircraft have had their mass adjusted to perform more reliably at speed.
+            + Performance
+                + Aircraft are no longer capable of exceeding the maximum altitude of the zeus camera.
+                    + This is a highly experimental change, feedback is extremely important.
             + Loadout
                 + All aircraft have had their weapon loadouts altered drastically
         + Delta 7A
