@@ -175,6 +175,7 @@ Small version update making some additional tweaks and introducing some new text
        +    LAAT MK.3's have had their filesize footprint reduced thanks to some big brain time from CX-X Floff
        +    Republic Longbow has had its weapon replaced with the PPTG2AC
        +    All MBT's have had their damage increase slightly
+       +    HMP Transports have had their missiles replaced with unguided variants
 ---
 - ### Infantry Based
     + #### Infantry Additions
